@@ -18,7 +18,7 @@ Python 3.10.12
 
 Running the Application
 
-1 - You need a CVE file(First)
+1 - You need a CVE file in the csv format (First)
 
 2 - Install Python 3.10.12
 
