@@ -27,3 +27,6 @@ Running the Application
 4 - Install/Import request library
 
 5 - Inform the file path(file with cve that you want to identify epss)
+
+6 - Inform the output path to save a csv file
+
